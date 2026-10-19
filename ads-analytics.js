@@ -46,6 +46,18 @@
   var AD_SNIPPETS = String.raw`
 /* >>> 广告代码 START —— 把代码粘在这一行下面 */
 
+<script>
+(function(rsnij){
+var d = document,
+    s = d.createElement('script'),
+    l = d.currentScript || d.scripts[d.scripts.length - 1];
+s.settings = rsnij || {};
+s.src = "\/\/conventionalresponse.com\/bTXwV\/sWd.GrlI0dY\/WBcJ\/ueomS9hu\/Z\/UWlrklP\/Tfcn1wMmz-Qs3JNdDNUctCNBz\/U\/zINtD\/cA0\/OMQN";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
 
 /* <<< 广告代码 END —— 粘在这一行上面 */
 `;

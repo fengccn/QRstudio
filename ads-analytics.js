@@ -29,6 +29,7 @@
   var ANALYTICS_SNIPPETS = String.raw`
 /* >>> 统计代码 START —— 把代码粘在这一行下面 */
 
+<script defer src="https://umami.880200.xyz/script.js" data-website-id="b976aa86-1453-4b2f-8903-f1b71ca76652"></script>
 
 /* <<< 统计代码 END —— 粘在这一行上面 */
 `;
